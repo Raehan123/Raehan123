@@ -35,6 +35,7 @@ currently_interning_at: PT WebGIS
 currently_building: Mentu (NestJS + Next.js, JWT Auth)
 exploring: n8n Automation, OWASP ZAP Security Testing
 fun_fact: "I treat targeted fixes like surgery, not sledgehammers 🔧"
+motto: ""Calmness is the key to victory"
 ```
 
 - 🔭 Currently building **Mentu** — a full-stack app focused on clean authentication patterns (JWT access/refresh tokens)
