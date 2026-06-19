@@ -27,7 +27,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Reyy
+name: Ray Raehan
 role: Full-Stack Web Developer & CS Student
 semester: 6th Semester, Computer Science
 location: 🇮🇩 Indonesia
@@ -60,7 +60,7 @@ fun_fact: "I treat targeted fixes like surgery, not sledgehammers 🔧"
 ### Backend
 <img src="https://skillicons.dev/icons?i=nestjs,laravel,prisma&theme=dark" />
 <br/>
-<img src="https://img.icons8.com/color/1200/adonis-js.jpg" />
+<img src="https://img.icons8.com/color/1200/adonis-js.jpg" width="48" height="48" />
 
 ### Database & Infra
 <img src="https://skillicons.dev/icons?i=postgres,docker&theme=dark" />
@@ -93,13 +93,15 @@ fun_fact: "I treat targeted fixes like surgery, not sledgehammers 🔧"
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Raehan123&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
 
----
+### 💬 Let's Connect
+
+Open to discussing full-stack development, backend architecture, and automation projects.
+
+<img src="https://komarev.com/ghpvc/?username=Raehan123&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+
+<br/><br/>
 
 
 </div>
