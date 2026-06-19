@@ -27,7 +27,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Ray Raehan
+name: Reyy
 role: Full-Stack Web Developer & CS Student
 semester: 6th Semester, Computer Science
 location: 🇮🇩 Indonesia
