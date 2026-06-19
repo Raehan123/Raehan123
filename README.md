@@ -99,7 +99,7 @@ fun_fact: "I treat targeted fixes like surgery, not sledgehammers 🔧"
 
 Open to discussing full-stack development, backend architecture, and automation projects.
 
-<img src="https://komarev.com/ghpvc/?username=Raehan123&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+<img align="center" height="160" src="https://i.pinimg.com/736x/6c/b9/1d/6cb91d75f1c513e7c07a7a0cef1ff51b.jpg" />
 
 <br/><br/>
 
