@@ -60,7 +60,7 @@ fun_fact: "I treat targeted fixes like surgery, not sledgehammers 🔧"
 ### Backend
 <img src="https://skillicons.dev/icons?i=nestjs,laravel,prisma&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/-AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white" />
+<img src="https://img.icons8.com/color/1200/adonis-js.jpg" />
 
 ### Database & Infra
 <img src="https://skillicons.dev/icons?i=postgres,docker&theme=dark" />
