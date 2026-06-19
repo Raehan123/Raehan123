@@ -88,14 +88,3 @@ I like solving problems with **targeted fixes rather than full rewrites**, and I
 
 </div>
 
----
-
-<div align="center">
-
-### Let's Connect
-
-Open to discussing full-stack development, backend architecture, and automation projects.
-
-<img src="https://komarev.com/ghpvc/?username=Raehan123&style=flat-square&color=0E7490&label=PROFILE+VIEWS"/>
-
-</div>
