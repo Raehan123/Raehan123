@@ -38,11 +38,11 @@ fun_fact: "I treat targeted fixes like surgery, not sledgehammers 🔧"
 motto: ""Calmness is the key to victory"
 ```
 
-- 🔭 Currently building **Mentu** — a full-stack app focused on clean authentication patterns (JWT access/refresh tokens)
-- 💼 Interning at **PT WebGIS**, shipping features on a production CMS dashboard
-- 🛠️ Comfortable across the stack — from Prisma schema design to pixel-perfect React UI
-- ⚙️ Exploring workflow automation (n8n) and web security fundamentals (OWASP ZAP)
-- 📫 Open to collaborating on full-stack, backend architecture & automation projects
+-  Currently building **Mentu** — a full-stack app focused on clean authentication patterns (JWT access/refresh tokens)
+-  Interning at **PT WebGIS**, shipping features on a production CMS dashboard
+-  Comfortable across the stack — from Prisma schema design to pixel-perfect React UI
+-  Exploring workflow automation (n8n) and web security fundamentals (OWASP ZAP)
+-  Open to collaborating on full-stack, backend architecture & automation projects
 
 <br clear="both"/>
 
@@ -69,7 +69,7 @@ motto: ""Calmness is the key to victory"
 ### Tools & Automation
 <img src="https://skillicons.dev/icons?i=git,postman,vscode&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png" width="48" height="48" />
 
 </div>
 
