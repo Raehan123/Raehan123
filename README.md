@@ -1,98 +1,81 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:EC4899&text=Reyy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Computer%20Science%20Student&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Ray%20Raehan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Next.js+%2B+NestJS+%2B+PostgreSQL;Clean+Architecture+Enjoyer;Always+Learning+and+Shipping+%F0%9F%9A%80"/>
+<br/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+platforms+%F0%9F%9A%80;Next.js+%2B+NestJS+%2B+PostgreSQL+%2B+Docker;Currently+crafting+%E2%80%9CMentu%E2%80%9D+%E2%80%94+JWT+Auth+in+progress;Always+learning%2C+always+shipping+%F0%9F%92%BB" alt="Typing SVG" />
 
-<img width="240" src="https://i.pinimg.com/736x/8b/55/68/8b556815387ec1d85164959dbbc4b0d8.jpg" alt="Killua"/>
+<br/><br/>
+
+<a href="https://www.instagram.com/rryyhhnnn_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-<br>
+<br/>
 
-## Hello, I'm Reyy 👋
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/4OnePieceWavingGIF.gif" align="right" width="260"/>
+
+## 🧑‍💻 About Me
 
 ```yaml
-role: Full-Stack Web Developer
-education: Computer Science Student
-location: Indonesia
-currently:
-  company: PT WebGIS
-  building: Mentu
-focus:
-  - Backend Architecture
-  - Authentication Systems
-  - Database Design
-  - Workflow Automation
-motto: "Calmness is the key to victory."
+name: Reyy
+role: Full-Stack Web Developer & CS Student
+semester: 6th Semester, Computer Science
+location: 🇮🇩 Indonesia
+currently_interning_at: PT WebGIS
+currently_building: Mentu (NestJS + Next.js, JWT Auth)
+exploring: n8n Automation, OWASP ZAP Security Testing
+fun_fact: "I treat targeted fixes like surgery, not sledgehammers 🔧"
+motto: "Calmness is the key to victory"
 ```
 
-<br>
+- 🔭 Currently building **Mentu** — a full-stack app focused on clean authentication patterns (JWT access/refresh tokens)
+- 💼 Interning at **PT WebGIS**, shipping features on a production CMS dashboard
+- 🛠️ Comfortable across the stack — from Prisma schema design to pixel-perfect React UI
+- ⚙️ Exploring workflow automation (n8n) and web security fundamentals (OWASP ZAP)
+- 📫 Open to collaborating on full-stack, backend architecture & automation projects
 
-## About Me
+<br clear="both"/>
 
-I enjoy transforming ideas into scalable and maintainable software.
+---
 
-- Building production-ready applications end to end
-- Comfortable across both frontend and backend
-- Passionate about clean architecture and good API design
-- Exploring automation with n8n
-- Continuously learning web security and system design
-
-<br>
-
-## Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-| Frontend | Backend | Database | Tools |
-|:---:|:---:|:---:|:---:|
-| Next.js | NestJS | PostgreSQL | Git |
-| React | Laravel | Prisma | Docker |
-| TypeScript | REST API | MySQL | Postman |
-| TailwindCSS | JWT Auth | Supabase | n8n |
-| HTML / CSS | Express | MongoDB | VS Code |
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css&theme=dark" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nestjs,laravel,prisma&theme=dark" />
+<br/>
+<img src="https://img.icons8.com/color/1200/adonis-js.jpg" width="48" height="48" />
+
+### Database & Infra
+<img src="https://skillicons.dev/icons?i=postgres,docker&theme=dark" />
+
+### Tools & Automation
+<img src="https://skillicons.dev/icons?i=git,postman,vscode&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 
 </div>
 
-<br>
+---
 
-## Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### Mentu
-
-Authentication-based platform built from scratch.
-
-- Next.js + NestJS
-- PostgreSQL + Prisma ORM
-- JWT Access & Refresh Token
-- Clean Architecture principles
-
-</td>
-<td width="50%" valign="top">
-
-### CMS Dashboard
-
-Production dashboard built during internship at PT WebGIS.
-
-- Role-based permissions
-- Dynamic CMS content
-- Full CRUD system
-- Responsive UI
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
@@ -105,32 +88,18 @@ Production dashboard built during internship at PT WebGIS.
 
 </div>
 
-<br>
+---
 
-## Current Focus
-
-```text
-Mentu
-│
-├── Next.js
-├── NestJS
-├── PostgreSQL
-├── Prisma
-├── JWT Access Token
-├── Refresh Token
-└── Clean Architecture
-```
-
-<br>
-
-## Philosophy
-
-> Great software is built with patience, consistency, and attention to detail.
 
 <div align="center">
 
-<br>
+### 💬 Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=110&section=footer"/>
+Open to discussing full-stack development, backend architecture, and automation projects.
+
+<img src="https://komarev.com/ghpvc/?username=Raehan123&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
 
 </div>
