@@ -1,4 +1,4 @@
-<img align="right" height="180" src="https://i.pinimg.com/736x/6c/b9/1d/6cb91d75f1c513e7c07a7a0cef1ff51b.jpg" />
+<img align="right" height="160" src="https://i.pinimg.com/736x/6c/b9/1d/6cb91d75f1c513e7c07a7a0cef1ff51b.jpg" />
 
 # Ray Raehan
 
@@ -10,7 +10,7 @@ Building scalable web platforms with modern JavaScript/TypeScript ecosystems —
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](#)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](#)
 
-<br clear="right"/>
+<br clear="both">
 
 ---
 
