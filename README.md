@@ -101,30 +101,5 @@ fun_fact: "I treat targeted fixes like surgery, not sledgehammers 🔧"
 
 ---
 
-## 🚀 Featured Project
-
-<div align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Raehan123&repo=mentu&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-**Mentu** — Budget-first discovery platform connecting Indonesian consumers with local UMKM businesses. Built with NestJS, Next.js, Prisma & PostgreSQL.
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Connect
-
-Open to discussing full-stack development, backend architecture, and automation projects.
-
-<img src="https://komarev.com/ghpvc/?username=Raehan123&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
 
 </div>
