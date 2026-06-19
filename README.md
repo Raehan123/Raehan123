@@ -67,9 +67,11 @@ motto: ""Calmness is the key to victory"
 <img src="https://skillicons.dev/icons?i=postgres,docker&theme=dark" />
 
 ### Tools & Automation
-<img src="https://skillicons.dev/icons?i=git,postman,vscode,antigravity&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,postman,vscode&theme=dark" />
 <br/>
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png" width="48" height="48" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrMRKxFs_PXaYM0_hbGBiVF0hzckhWdqdekQ&s" width="48" height="48" />
+
 
 </div>
 
