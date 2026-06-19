@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0891B2,100:14B8A6&height=200&section=header&text=Hi,%20I'm%20Ray%20Raehan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0891B2,100:14B8A6&height=200&section=header&text=Hi,%20I'm%20Reyy&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=0E7490&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+platforms;Next.js+%2B+NestJS+%2B+PostgreSQL+%2B+Docker;Currently+crafting+%22Mentu%22+%E2%80%94+JWT+Auth+in+progress;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://www.instagram.com/rryyhhnnn_"><img src="https://img.shields.io/badge/Instagram-0E7490?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0E7490?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-0E7490?style=flat-square&logo=gmail&logoColor=white"/></a>
-
+<a href="www.linkedin.com/in/raehan-nur"><img src="https://img.shields.io/badge/LinkedIn-0E7490?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </div>
 
 <br/>
